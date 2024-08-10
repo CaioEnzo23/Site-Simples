@@ -1,2 +1,1 @@
-# Site-Simples
-Site simples Trabalhador 4.0
+# Bem-vindo ao meu repositório de estudo sobre Site. Ultilizando HTML, CSS e JavaScript.
